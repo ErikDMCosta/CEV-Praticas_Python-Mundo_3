@@ -1,0 +1,5 @@
+João;45
+Maria;85
+Pedro;23
+Lulu;21
+Susa;26
