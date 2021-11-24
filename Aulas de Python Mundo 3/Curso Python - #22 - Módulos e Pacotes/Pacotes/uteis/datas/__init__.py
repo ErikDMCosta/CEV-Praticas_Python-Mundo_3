@@ -1,0 +1,2 @@
+def datas():
+    print('')
